@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suchita Jain</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Suchita%20Jain&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=CSE%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+</p>
 <h3 align="center">
 CSE Student | Developer | AI & Open Source Enthusiast 🤖
 </h3>
@@ -46,65 +48,29 @@ CSE Student | Developer | AI & Open Source Enthusiast 🤖
 ---
 ## 🧩 Competitive Programming
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🟤 CodeChef
+<p align="center">
 
 <a href="https://www.codechef.com/users/suchitajain011">
-
-<img src="https://img.shields.io/badge/CODECHEF-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/CODECHEF-555555?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROFILE-8B5E3C?style=for-the-badge"/>
 </a>
-
-<br><br>
-
-**Competitive Programming**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🟠 LeetCode
 
 <a href="https://leetcode.com/u/suchitajain09_/">
-
-<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LEETCODE-555555?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA%20PRACTICE-F59E0B?style=for-the-badge"/>
 </a>
 
-<br><br>
-
-**DSA Practice**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 Focus Areas
-
-`DSA`
-
-`Algorithms`
-
-`Problem Solving`
-
-`Technical Interviews`
-
-</td>
-
-</tr>
-</table>
-
-<br>
+</p>
 
 <p align="center">
 
-I'm actively working on improving my problem-solving and competitive programming skills, with a long-term focus on DSA and technical interview preparation.
+<img src="https://img.shields.io/badge/FOCUS-DSA-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ALGORITHMS-EC4899?style=for-the-badge"/>
 
 </p>
+
+> 🧠 I'm actively improving my DSA and competitive programming skills with a long-term focus on problem solving and technical interview preparation.
 
 ## 🚀 Featured Projects
 
@@ -130,13 +96,148 @@ A frontend e-commerce interface with cart and wishlist functionality.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suchitajain01&theme=tokyonight&hide_border=true" />
 </p>
 
----
+## 🗺️ Developer Roadmap
 
-## 📫 Connect With Me
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🟢 01
+
+<h3>FOUNDATIONS</h3>
+
+💻 C++  
+🐍 Python  
+🧩 OOP  
+🧠 DSA  
+⚡ Problem Solving  
+🏆 Competitive Programming  
+🔧 Git & GitHub
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔵 02
+
+<h3>WEB DEVELOPMENT</h3>
+
+🌐 HTML  
+🎨 CSS  
+⚡ JavaScript  
+⚛️ React  
+🎨 Tailwind  
+📱 Responsive Design  
+🚀 Frontend Projects
+
+</td>
+
+<td align="center" width="33%">
+
+### 🟣 03
+
+<h3>BACKEND</h3>
+
+🟢 Node.js  
+🔗 REST APIs  
+🗄️ Databases  
+🔐 Authentication  
+⚙️ Backend Architecture  
+☁️ Deployment
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🤖 04
+
+<h3>AI</h3>
+
+🐍 Python for AI  
+🧠 AI Fundamentals  
+✨ Generative AI  
+🔌 AI APIs  
+🤖 AI Applications  
+📚 ML Fundamentals
+
+</td>
+
+<td align="center">
+
+### 🌍 05
+
+<h3>OPEN SOURCE</h3>
+
+🔧 Git Workflows  
+🐛 Issues  
+🔀 Pull Requests  
+🌱 Contributions  
+🤝 Collaboration  
+🌐 Community Projects
+
+</td>
+
+<td align="center">
+
+### 🚀 06
+
+<h3>INDUSTRY READY</h3>
+
+💼 Internships  
+🏆 Hackathons  
+💻 Real Projects  
+🌐 Deployment  
+🤝 Collaboration  
+📈 Continuous Growth
+
+</td>
+
+</tr>
+</table>
+
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/suchitajain01">GitHub</a> •
-  <a href="https://www.linkedin.com/in/suchitajain01/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/suchitajain09_/">LeetCode</a> •
-  <a href="https://www.codechef.com/users/suchitajain011">CodeChef</a>
+
+<a href="https://github.com/suchitajain01">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUCHITAJAIN01-0EA5E9?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/u/suchitajain09_/">
+<img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUCHITAJAIN09_-F59E0B?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/users/suchitajain011">
+<img src="https://img.shields.io/badge/CODECHEF-161B22?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUCHITAJAIN011-8B5E3C?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/suchitajain01/">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUCHITA%20JAIN-2563EB?style=for-the-badge"/>
+</a>
+
 </p>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
+<h3 align="center">
+  🚀 Learn. Build. Experiment. Grow.
+</h3>
+
+<p align="center">
+  <i>"The goal isn't to know everything. It's to keep becoming better."</i>
+</p>
+
