@@ -44,14 +44,22 @@ CSE Student | Developer | AI & Open Source Enthusiast 🤖
 `Git` `GitHub` `VS Code` `Vite`
 
 ---
+# 🧠 Competitive Programming
+
+I'm actively working on improving my problem-solving and competitive programming skills.
+
+| Platform | Profile | Focus |
+|----------|---------|-------|
+| 🟠 LeetCode | [suchitajain09_](https://leetcode.com/u/suchitajain09_/) | DSA & Problem Solving |
+| 🟤 CodeChef | [suchitajain011](https://www.codechef.com/users/suchitajain011) | Competitive Programming |
+| ⚫ GitHub | [suchitajain01](https://github.com/suchitajain01) | Projects & Development |
+
+\
 
 ## 🚀 Featured Projects
 
 ### 🎵 Music Player
 A modern music player built with React and Tailwind CSS.
-
-### 🔐 Secure Digital Document Management
-A secure document management system for legal and investigation documents.
 
 ### 🛒 Amazon Homepage
 A frontend e-commerce interface with cart and wishlist functionality.
