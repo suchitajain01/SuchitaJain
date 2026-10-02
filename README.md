@@ -44,17 +44,67 @@ CSE Student | Developer | AI & Open Source Enthusiast 🤖
 `Git` `GitHub` `VS Code` `Vite`
 
 ---
-# 🧠 Competitive Programming
+## 🧩 Competitive Programming
 
-I'm actively working on improving my problem-solving and competitive programming skills.
+<table>
+<tr>
 
-| Platform | Profile | Focus |
-|----------|---------|-------|
-| 🟠 LeetCode | [suchitajain09_](https://leetcode.com/u/suchitajain09_/) | DSA & Problem Solving |
-| 🟤 CodeChef | [suchitajain011](https://www.codechef.com/users/suchitajain011) | Competitive Programming |
-| ⚫ GitHub | [suchitajain01](https://github.com/suchitajain01) | Projects & Development |
+<td align="center" width="33%">
 
-\
+### 🟤 CodeChef
+
+<a href="https://www.codechef.com/users/suchitajain011">
+
+<img src="https://img.shields.io/badge/CODECHEF-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**Competitive Programming**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🟠 LeetCode
+
+<a href="https://leetcode.com/u/suchitajain09_/">
+
+<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**DSA Practice**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Focus Areas
+
+`DSA`
+
+`Algorithms`
+
+`Problem Solving`
+
+`Technical Interviews`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+I'm actively working on improving my problem-solving and competitive programming skills, with a long-term focus on DSA and technical interview preparation.
+
+</p>
 
 ## 🚀 Featured Projects
 
